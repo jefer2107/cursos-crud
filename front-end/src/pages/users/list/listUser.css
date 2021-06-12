@@ -1,0 +1,22 @@
+.user-list{
+
+    background-color: beige;
+    margin: auto;
+    padding: 10%;
+    height: 100vh;
+}
+
+.user-list thead{
+
+    background-color: #ddd;
+}
+
+.user-list table tr{
+
+    border: 1px solid black;
+}
+
+.user-list table td{
+
+    border: 1px solid black;
+}

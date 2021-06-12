@@ -1,0 +1,21 @@
+.list-couses{
+    background-color: beige;
+    margin: auto;
+    padding: 10%;
+}
+
+.list-couses table thead{
+    background-color: #ddd;
+}
+
+.list-couses table tbody{
+    background-color: white;
+}
+
+.list-couses table tr{
+    border: 1px solid black;
+}
+
+.list-couses table td{
+    border: 1px solid black;
+}
